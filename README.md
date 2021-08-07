@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-flexbox-ZKgPsq0QK](https://www.frontendmentor.io/solutions/html-and-css-flexbox-ZKgPsq0QK)
+- Live Site URL: [https://priceless-goldwasser-65d74a.netlify.app/](https://priceless-goldwasser-65d74a.netlify.app/)
 
 ## My process
 
