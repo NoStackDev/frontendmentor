@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/visual-studio-code-gimp-lekAS2TUQ)
-- Live Site URL: [](https://gallant-pasteur-3b4d33.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/visual-studio-code-gimp-lekAS2TUQ]
+- Live Site URL: [https://gallant-pasteur-3b4d33.netlify.app/]
 
 ## My process
 
