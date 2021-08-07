@@ -94,7 +94,7 @@ span {
   text-align: center;
 }
 
-.stat h2 {
+.stat h1 {
   font-size: 1.8em;
 }
 
@@ -103,7 +103,7 @@ span {
   color: var(--primary-grayish-blue);
 }
 
-h2 {
+h1 {
   color: var(--primary-dark-desatur-blue);
 }
 
