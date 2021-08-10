@@ -26,10 +26,19 @@
 
 body {
     background-color: var(--light-grayish-blue);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
     padding: 20px;
+}
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
 }
 
 .card {
